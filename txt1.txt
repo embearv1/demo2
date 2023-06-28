@@ -1,0 +1,11 @@
+git status
+
+git clone https://github.com/embearv1/demo2.git
+
+
+git add .
+
+
+git commit -m "Demo" (Thay đổi)
+
+git push origin 
